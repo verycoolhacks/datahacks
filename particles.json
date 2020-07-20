@@ -1,0 +1,39 @@
+{
+  "particles": {
+    "number": {
+      "value": 75
+    },
+      "color": {
+          "value":["#ffffff"]
+      }, 
+      "size": {
+          "value":4
+      },
+      "opacity": {
+          "value": 0.8
+      }, 
+      "line_linked": {
+          "color" : "#ffffff",
+          "opacity" : 0.5,
+          "distance": 150
+      }
+  },
+    "interactivity": {
+          "events": {
+              "onhover": {
+                  "enable":true, 
+                  "mode": "bubble"
+              },
+              "onclick": {
+                  "enable": true,
+                  "mode": "repulse"
+              },
+              "modes": {
+                  "bubbles": {
+                      "distance": 20,
+                      "size": 10
+                  }
+              }
+          }
+      }
+}
