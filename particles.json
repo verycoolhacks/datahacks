@@ -10,11 +10,11 @@
           "value":4
       },
       "opacity": {
-          "value": 0.8
+          "value": 0
       }, 
       "line_linked": {
           "color" : "#ffffff",
-          "opacity" : 0.5,
+          "opacity" : 0,
           "distance": 150
       }
   },
